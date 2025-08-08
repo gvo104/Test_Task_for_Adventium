@@ -8,12 +8,19 @@
 ## Содержание
 
 ├── .gitignore 
+
 ├── Interpretation_Rand_Forest.ipynb # Jupyter ноутбук для ML-интерпретации (Random Forest)
+
 ├── SQL_query.ipynb # SQL-анализ постов
+
 ├── requirements.txt 
+
 ├── res_sql_day_period.csv # Результаты SQL-запроса по времени суток
+
 ├── res_sql_posts_time_interval.csv # Результаты SQL-запроса по интервалам между постами
+
 ├── res_sql_week_days.csv # Результаты SQL-запроса по дням недели
+
 └── vk_posts.db # SQLite база данных с постами
 
 ## Как запустить
